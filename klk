@@ -1,0 +1,5 @@
+int a(int n, int m){
+int s;
+s=n+m;
+return s;
+}
